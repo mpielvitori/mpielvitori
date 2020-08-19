@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Developing awesome things with passion since 2005
 <!--
 **mpielvitori/mpielvitori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
