@@ -1,4 +1,7 @@
 ### Developing awesome things with passion since 2005
+
+💬 __It's not what you achieve, it's what you overcome. That's what defines your career. 
+Carlton Fisk__ 💬
 <!--
 **mpielvitori/mpielvitori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
