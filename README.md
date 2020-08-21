@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub profile!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmpielvitori)](https://github.com/mpielvitori)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmpielvitori&edge_flat=true)](https://github.com/mpielvitori)
 [![Personal page](https://img.shields.io/badge/site-grey?logo=github&style=for-the-badge&link=http://mpielvitori.github.io)](http://mpielvitori.github.io)
 [![GitLab](https://img.shields.io/badge/gitLab-grey?logo=gitlab&style=for-the-badge&link=https://gitlab.com/mpielvitori)](https://gitlab.com/mpielvitori)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mpielvitori)](https://www.linkedin.com/in/mpielvitori)
