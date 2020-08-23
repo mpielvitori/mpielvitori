@@ -7,8 +7,7 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=mpielvitori&show_icons=true&hide_border=true)](https://github.com/mpielvitori)
 
-💬 __It's not what you achieve, it's what you overcome. That's what defines your career. 
-Carlton Fisk__
+### 💬 __"It's not what you achieve, it's what you overcome. That's what defines your career" Carlton Fisk__
 <!--
 **mpielvitori/mpielvitori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
