@@ -5,7 +5,7 @@
 [![GitLab](https://img.shields.io/badge/gitLab-grey?logo=gitlab&style=for-the-badge&link=https://gitlab.com/mpielvitori)](https://gitlab.com/mpielvitori)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mpielvitori)](https://www.linkedin.com/in/mpielvitori)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=mpielvitori&show_icons=true&hide_border=true)](https://github.com/mpielvitori)
+[![stats](https://github-readme-stats.vercel.app/api?username=mpielvitori&theme=gruvbox&show_icons=true&hide_border=true)](https://github.com/mpielvitori)
 
 ### 💬 __"It's not what you achieve, it's what you overcome. That's what defines your career" Carlton Fisk__
 <!--
