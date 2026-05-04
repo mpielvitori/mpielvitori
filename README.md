@@ -4,10 +4,11 @@
 [![GitLab](https://img.shields.io/badge/GitLab-grey?logo=gitlab&style=flat-square&link=https://gitlab.com/mpielvitori)](https://gitlab.com/mpielvitori)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/mpielvitori)](https://www.linkedin.com/in/mpielvitori)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=mpielvitori&theme=gruvbox&show_icons=true&hide_border=true)](https://github.com/mpielvitori)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mpielvitori&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 ### 💬 __"It's not what you achieve, it's what you overcome. That's what defines your career" Carlton Fisk__
 <!--
+[![stats](https://github-readme-stats.vercel.app/api?username=mpielvitori&theme=gruvbox&show_icons=true&hide_border=true)](https://github.com/mpielvitori)
 **mpielvitori/mpielvitori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
